@@ -1,1 +1,4 @@
-build
+node_modules
+phonebook-front/vite.config.js
+phonebook-front/dist
+phonebook-front/node_modules
